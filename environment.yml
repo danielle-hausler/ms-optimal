@@ -1,0 +1,22 @@
+name: optms
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python>=3.8, <3.10
+  - cvxpy
+  - dataclasses
+  - jupyterlab
+  - loguru
+  - matplotlib
+  - numpy
+  - pandas
+  - pip
+  - pyyaml
+  - scikit-learn
+  - scipy
+  - yaml
+  - pip:
+    - datargs
+    - libsvmdata
+
