@@ -13,6 +13,14 @@ For examples and explanations on how to run the code, use the notebook in:
 ```  
 notebooks/run_experiment.ipynb  
 ``` 
-
+ ## Reference  
+```  
+@article{carmon2022optimal,  
+author = {Yair Carmon and Danielle Hausler and Arun Jambulapati and Yujia Jin and Aaron Sidford},
+title = {Optimal and Adaptive Monteiro-Svaiter Acceleration},  
+journal={arXiv:2205.15371},
+year = {2022},
+}  
+```
 
 
