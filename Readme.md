@@ -1,6 +1,7 @@
 ## Optimal and Adaptive Monteiro-Svaiter Acceleration
 
-This repository contains the code to reproduce the experimental results from the paper "Optimal and Adaptive Monteiro-Svaiter Acceleration". 
+This repository contains the code to reproduce the experimental results from the paper
+ ["Optimal and Adaptive Monteiro-Svaiter Acceleration"]( https://arxiv.org/pdf/2205.15371.pdf). 
 
 ## Dependencies 
 To create a conda environment (called `optms`) run: 
